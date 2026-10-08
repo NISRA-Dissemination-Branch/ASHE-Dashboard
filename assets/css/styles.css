@@ -266,6 +266,11 @@ table tr:not(:has(th)):hover {
   color: #fff !important;
 }
 
+.navy-bg a:hover,
+.navy-bg a:focus {
+  color: #fff !important;
+}
+
 .nav-btn {
   background-color: #00205b;
   border-bottom: 16px solid #00205b;
@@ -369,6 +374,11 @@ table tr:not(:has(th)):hover {
 
 .card-footer {
   margin-top: auto;
+}
+
+.navy-bg .card-footer a,
+.card-footer.navy-bg a {
+  color: #fff !important;
 }
 
 /* Clear, consistent focus style for keyboard users */
