@@ -243,7 +243,9 @@ row["Working Pattern"] == "Part-Time")
             // SOURCE BOX
             `<p>The Annual Survey of Hours and Earnings (ASHE) is a UK wide survey that provides information on hourly, weekly and annual earnings, as well as hours worked. Results presented below are based on estimates of earnings and hours worked broken down by gender and working pattern. </p>
 
-<p>The latest bulletin is available on the <a href='https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings'>NISRA website</a>.</p>`,
+<p>The latest bulletin is available on the <a href='https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings'>NISRA website</a>.</p>
+
+<p>ASHE data is now available on the  <a href='https://data.nisra.gov.uk/product/HEE'>NISRA Data Portal</a>.</p>`,
 
             // DATA MEANING BOX
             `<p>This page shows median gross hourly earnings (excluding overtime) for employee jobs in Northern Ireland. Median earnings represent the pay level where half of employees earn more and half earn less, providing a reliable measure of typical earnings that is less affected by a small number of very high or very low earners.</p>
