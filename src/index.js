@@ -54,82 +54,46 @@ window.addEventListener("DOMContentLoaded", async () => {
 
     // Content for card 4
 
-    const headline_4_raw = GHWPLGD_data
-        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Pay Rate"] == "Weekly" && row["Working Pattern"] == "All")
+    const [GAPLGD_data, GAPLGD_meta] = await readData("GAPLGD");
+
+    const headline_4_raw = GAPLGD_data
+        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Working Pattern"] == "All")
         .map(col => col["All Persons"])[0];
 
-    // BuildR display value: 591.9
+    // BuildR display value: 31,084
     const headline_4 = headline_4_raw.toLocaleString("en-GB", {
-        minimumFractionDigits: 1,
-        maximumFractionDigits: 1
+        minimumFractionDigits: 0,
+        maximumFractionDigits: 0
     });
     insertValue("headline-4-value", headline_4);
 
 
     // Content for card 5
 
-    const headline_5_raw = GHWPLGD_data
-        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Pay Rate"] == "Weekly" && row["Working Pattern"] == "Full-Time")
+    const headline_5_raw = GAPLGD_data
+        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Working Pattern"] == "Full-Time")
         .map(col => col["Females"])[0];
 
-    // BuildR display value: 678.4
-    const headline_5 = headline_5_raw.toFixed(1);
+    // BuildR display value: 35,533
+    const headline_5 = headline_5_raw.toLocaleString("en-GB", {
+        minimumFractionDigits: 0,
+        maximumFractionDigits: 0
+    });
     insertValue("headline-5-value", headline_5);
 
 
     // Content for card 6
 
-    const headline_6_raw = GHWPLGD_data
-        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Pay Rate"] == "Weekly" && row["Working Pattern"] == "Full-Time")
-        .map(col => col["Males"])[0];
-
-    // BuildR display value: 742.5
-    const headline_6 = headline_6_raw.toFixed(1);
-    insertValue("headline-6-value", headline_6);
-
-
-    // Content for card 7
-
-    const [GAPLGD_data, GAPLGD_meta] = await readData("GAPLGD");
-
-    const headline_7_raw = GAPLGD_data
-        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Working Pattern"] == "Full-Time")
-        .map(col => col["All Persons"])[0];
-
-    // BuildR display value: 37,052
-    const headline_7 = headline_7_raw.toLocaleString("en-GB", {
-        minimumFractionDigits: 0,
-        maximumFractionDigits: 0
-    });
-    insertValue("headline-7-value", headline_7);
-
-
-    // Content for card 8
-
-    const headline_8_raw = GAPLGD_data
-        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Working Pattern"] == "Full-Time")
-        .map(col => col["Females"])[0];
-
-    // BuildR display value: 35,533
-    const headline_8 = headline_8_raw.toLocaleString("en-GB", {
-        minimumFractionDigits: 0,
-        maximumFractionDigits: 0
-    });
-    insertValue("headline-8-value", headline_8);
-
-
-    // Content for card 9
-
-    const headline_9_raw = GAPLGD_data
+    const headline_6_raw = GAPLGD_data
         .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Working Pattern"] == "Full-Time")
         .map(col => col["Males"])[0];
 
     // BuildR display value: 38,053
-    const headline_9 = headline_9_raw.toLocaleString("en-GB", {
+    const headline_6 = headline_6_raw.toLocaleString("en-GB", {
         minimumFractionDigits: 0,
         maximumFractionDigits: 0
     });
-    insertValue("headline-9-value", headline_9);
+    insertValue("headline-6-value", headline_6);
 
 
 })
