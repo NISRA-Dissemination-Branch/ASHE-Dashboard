@@ -238,11 +238,13 @@ row["Working Pattern"] == "Part-Time")
             // DEFINITIONS BOX
             `<p>Gross earnings relate to pay before deductions for PAYE, National Insurance, pension schemes, student loan repayments and voluntary deductions.</p>
 
-<p>Full-time employee is defined as anyone aged 16 years or over that is directly paid from a business's payroll for carrying out more than 30 paid hours per week (or 25 or more for the teaching professions).</p>
+            <p>Median gross hourly earnings excludes overtime.</p>
 
-<p>Part-time employee is defined as anyone aged 16 years or over working 30 or less paid hours a week (or less than 25 for the teaching professions).</p>
+            <p>Full-time employee is defined as anyone aged 16 years or over that is directly paid from a business's payroll for carrying out more than 30 paid hours per week (or 25 or more for the teaching professions).</p>
 
-<p>Please note, the geographical data is based on the employees place of work.</p>`,
+            <p>Part-time employee is defined as anyone aged 16 years or over working 30 or less paid hours a week (or less than 25 for the teaching professions).</p>
+
+            <p>Please note, the geographical data is based on the employees place of work.</p>`,
 
             // SOURCE BOX
             `<p>The Annual Survey of Hours and Earnings (ASHE) is a UK wide survey that provides information on hourly, weekly and annual earnings, as well as hours worked. Results presented below are based on estimates of earnings and hours worked broken down by gender and working pattern. </p>
