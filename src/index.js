@@ -57,10 +57,10 @@ window.addEventListener("DOMContentLoaded", async () => {
     const [GAPLGD_data, GAPLGD_meta] = await readData("GAPLGD");
 
     const headline_4_raw = GAPLGD_data
-        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Working Pattern"] == "All")
+        .filter(row => row["Statistic"] == "Median Wage" && row["Year"] == latest_year && row["Local Government District"] == "Northern Ireland" && row["Working Pattern"] == "Full-Time")
         .map(col => col["All Persons"])[0];
 
-    // BuildR display value: 31,084
+    // BuildR display value: 37,052
     const headline_4 = headline_4_raw.toLocaleString("en-GB", {
         minimumFractionDigits: 0,
         maximumFractionDigits: 0
