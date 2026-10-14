@@ -39,6 +39,6 @@ export const config = {
     // Re-run "src/r/data.R" script after each update to list below
     "matrix": ["GHWPLGD", "GAPLGD", "TWPHWLGD"],
     
-    "rateit": "link-to-rateit"
+    "rateit": "ASHE_Dashboard"
     
 }

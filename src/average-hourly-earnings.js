@@ -164,7 +164,9 @@ row["Working Pattern"] == "Part-Time")
         unit: "£",
         canvas_id: "line-canvas-1",
         expanded_canvas_id: "line-canvas-1-expanded",
-        showPoints: true
+        showPoints: true,
+        label_dp: 2,
+        comma_separator: true
     });
 
     const line_chart_1_query = {
@@ -201,7 +203,9 @@ row["Working Pattern"] == "Part-Time")
         data: map_chart_2_data,
         meta: GHWPLGD_meta,
         area: "Local Government District",
-        value: "All Persons"
+        value: "All Persons",
+        unit: "£",
+        label_dp: "2"
     });
 
     const map_chart_2_query = {
