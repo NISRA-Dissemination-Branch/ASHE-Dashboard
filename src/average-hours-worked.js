@@ -174,7 +174,7 @@ row["Working Pattern"] == "Part Time")
         canvas_id: "line-canvas-1",
         expanded_canvas_id: "line-canvas-1-expanded",
         showPoints: true,
-        label_dp: 0,
+        label_dp: 1,
         comma_separator: true
     });
 
@@ -212,7 +212,7 @@ row["Working Pattern"] == "Part Time")
         area: "Local Government District",
         value: "All Persons",
         unit: "hours",
-        label_dp: "0"
+        label_dp: "1"
     });
 
     const map_chart_2_query = {
