@@ -1,7 +1,7 @@
 {
   "GHWPLGD": {
     "label": "Gross Hourly (excluding overtime) and Weekly Pay",
-    "updated": "2025-10-29",
+    "updated": "2026-10-22",
     "subject": 160,
     "product": "HEE",
     "variables": [
@@ -29,7 +29,8 @@
           "2022": "2022",
           "2023": "2023",
           "2024": "2024",
-          "2025": "2025"
+          "2025": "2025",
+          "2026": "2026"
         }
       },
       {
@@ -80,7 +81,7 @@
   },
   "GAPLGD": {
     "label": "Gross Annual Pay",
-    "updated": "2025-10-29",
+    "updated": "2026-10-22",
     "subject": 160,
     "product": "HEE",
     "variables": [
@@ -108,7 +109,8 @@
           "2022": "2022",
           "2023": "2023",
           "2024": "2024",
-          "2025": "2025"
+          "2025": "2025",
+          "2026": "2026"
         }
       },
       {
@@ -151,7 +153,7 @@
   },
   "TWPHWLGD": {
     "label": "Total Weekly Paid Hours Worked",
-    "updated": "2025-10-29",
+    "updated": "2026-10-22",
     "subject": 160,
     "product": "HEHW",
     "variables": [
@@ -179,7 +181,8 @@
           "2022": "2022",
           "2023": "2023",
           "2024": "2024",
-          "2025": "2025"
+          "2025": "2025",
+          "2026": "2026"
         }
       },
       {

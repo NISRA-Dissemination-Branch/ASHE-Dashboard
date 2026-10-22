@@ -791,78 +791,150 @@
 "Number of Jobs (Thousands)",2024,"Ards and North Down","Weekly","All",57,33,23
 "Number of Jobs (Thousands)",2024,"Ards and North Down","Weekly","Full-Time",33,16,17
 "Number of Jobs (Thousands)",2024,"Ards and North Down","Weekly","Part-Time",24,18,6
-"Number of Jobs (Thousands)",2025,"Northern Ireland","Hourly (excluding overtime)","All",1119,587,531
-"Number of Jobs (Thousands)",2025,"Northern Ireland","Hourly (excluding overtime)","Full-Time",787,343,444
-"Number of Jobs (Thousands)",2025,"Northern Ireland","Hourly (excluding overtime)","Part-Time",332,245,87
-"Number of Jobs (Thousands)",2025,"Northern Ireland","Weekly","All",1119,587,531
-"Number of Jobs (Thousands)",2025,"Northern Ireland","Weekly","Full-Time",787,343,444
-"Number of Jobs (Thousands)",2025,"Northern Ireland","Weekly","Part-Time",332,245,87
-"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",76,39,37
-"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",55,23,32
+"Number of Jobs (Thousands)",2025,"Northern Ireland","Hourly (excluding overtime)","All",1103,578,525
+"Number of Jobs (Thousands)",2025,"Northern Ireland","Hourly (excluding overtime)","Full-Time",776,337,439
+"Number of Jobs (Thousands)",2025,"Northern Ireland","Hourly (excluding overtime)","Part-Time",328,241,87
+"Number of Jobs (Thousands)",2025,"Northern Ireland","Weekly","All",1103,578,525
+"Number of Jobs (Thousands)",2025,"Northern Ireland","Weekly","Full-Time",776,337,439
+"Number of Jobs (Thousands)",2025,"Northern Ireland","Weekly","Part-Time",328,241,87
+"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",74,39,35
+"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",53,23,31
 "Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",21,16,NA
-"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Weekly","All",76,39,37
-"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Weekly","Full-Time",55,23,32
+"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Weekly","All",74,39,35
+"Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Weekly","Full-Time",53,23,31
 "Number of Jobs (Thousands)",2025,"Antrim and Newtownabbey","Weekly","Part-Time",21,16,NA
-"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",119,65,54
-"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",83,38,45
+"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",116,64,52
+"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",80,37,43
 "Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",36,27,9
-"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Weekly","All",119,65,54
-"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",83,38,45
+"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Weekly","All",116,64,52
+"Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",80,37,43
 "Number of Jobs (Thousands)",2025,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",36,27,9
-"Number of Jobs (Thousands)",2025,"Belfast","Hourly (excluding overtime)","All",353,181,173
-"Number of Jobs (Thousands)",2025,"Belfast","Hourly (excluding overtime)","Full-Time",268,119,148
-"Number of Jobs (Thousands)",2025,"Belfast","Hourly (excluding overtime)","Part-Time",86,61,24
-"Number of Jobs (Thousands)",2025,"Belfast","Weekly","All",353,181,173
-"Number of Jobs (Thousands)",2025,"Belfast","Weekly","Full-Time",268,119,148
-"Number of Jobs (Thousands)",2025,"Belfast","Weekly","Part-Time",86,61,24
-"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","All",60,33,27
+"Number of Jobs (Thousands)",2025,"Belfast","Hourly (excluding overtime)","All",346,177,169
+"Number of Jobs (Thousands)",2025,"Belfast","Hourly (excluding overtime)","Full-Time",262,117,145
+"Number of Jobs (Thousands)",2025,"Belfast","Hourly (excluding overtime)","Part-Time",84,60,24
+"Number of Jobs (Thousands)",2025,"Belfast","Weekly","All",346,177,169
+"Number of Jobs (Thousands)",2025,"Belfast","Weekly","Full-Time",262,117,145
+"Number of Jobs (Thousands)",2025,"Belfast","Weekly","Part-Time",84,60,24
+"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","All",59,32,27
 "Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",36,16,20
-"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",23,17,7
-"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Weekly","All",60,33,27
+"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",23,16,7
+"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Weekly","All",59,32,27
 "Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Weekly","Full-Time",36,16,20
-"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Weekly","Part-Time",23,17,7
-"Number of Jobs (Thousands)",2025,"Derry City and Strabane","Hourly (excluding overtime)","All",80,44,37
+"Number of Jobs (Thousands)",2025,"Causeway Coast and Glens","Weekly","Part-Time",23,16,7
+"Number of Jobs (Thousands)",2025,"Derry City and Strabane","Hourly (excluding overtime)","All",81,44,37
 "Number of Jobs (Thousands)",2025,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",55,25,30
 "Number of Jobs (Thousands)",2025,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",25,19,6
-"Number of Jobs (Thousands)",2025,"Derry City and Strabane","Weekly","All",80,44,37
+"Number of Jobs (Thousands)",2025,"Derry City and Strabane","Weekly","All",81,44,37
 "Number of Jobs (Thousands)",2025,"Derry City and Strabane","Weekly","Full-Time",55,25,30
 "Number of Jobs (Thousands)",2025,"Derry City and Strabane","Weekly","Part-Time",25,19,6
 "Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","All",60,31,29
 "Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",40,16,24
-"Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",20,15,NA
+"Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",19,15,NA
 "Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Weekly","All",60,31,29
 "Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Weekly","Full-Time",40,16,24
-"Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Weekly","Part-Time",20,15,NA
-"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",85,46,39
-"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",58,26,32
+"Number of Jobs (Thousands)",2025,"Fermanagh and Omagh","Weekly","Part-Time",19,15,NA
+"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",84,45,39
+"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",57,25,32
 "Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",27,20,7
-"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Weekly","All",85,46,39
-"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Weekly","Full-Time",58,26,32
+"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Weekly","All",84,45,39
+"Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Weekly","Full-Time",57,25,32
 "Number of Jobs (Thousands)",2025,"Lisburn and Castlereagh","Weekly","Part-Time",27,20,7
-"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Hourly (excluding overtime)","All",60,30,30
-"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",43,17,26
+"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Hourly (excluding overtime)","All",59,30,29
+"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",42,17,25
 "Number of Jobs (Thousands)",2025,"Mid and East Antrim","Hourly (excluding overtime)","Part-Time",17,13,NA
-"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Weekly","All",60,30,30
-"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Weekly","Full-Time",43,17,26
+"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Weekly","All",59,30,29
+"Number of Jobs (Thousands)",2025,"Mid and East Antrim","Weekly","Full-Time",42,17,25
 "Number of Jobs (Thousands)",2025,"Mid and East Antrim","Weekly","Part-Time",17,13,NA
 "Number of Jobs (Thousands)",2025,"Mid Ulster","Hourly (excluding overtime)","All",73,34,39
-"Number of Jobs (Thousands)",2025,"Mid Ulster","Hourly (excluding overtime)","Full-Time",52,19,34
-"Number of Jobs (Thousands)",2025,"Mid Ulster","Hourly (excluding overtime)","Part-Time",20,15,NA
+"Number of Jobs (Thousands)",2025,"Mid Ulster","Hourly (excluding overtime)","Full-Time",53,19,34
+"Number of Jobs (Thousands)",2025,"Mid Ulster","Hourly (excluding overtime)","Part-Time",21,15,6
 "Number of Jobs (Thousands)",2025,"Mid Ulster","Weekly","All",73,34,39
-"Number of Jobs (Thousands)",2025,"Mid Ulster","Weekly","Full-Time",52,19,34
-"Number of Jobs (Thousands)",2025,"Mid Ulster","Weekly","Part-Time",20,15,NA
-"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","All",78,47,31
+"Number of Jobs (Thousands)",2025,"Mid Ulster","Weekly","Full-Time",53,19,34
+"Number of Jobs (Thousands)",2025,"Mid Ulster","Weekly","Part-Time",21,15,6
+"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","All",77,46,31
 "Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",46,22,24
-"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",32,24,7
-"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Weekly","All",78,47,31
+"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",31,24,7
+"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Weekly","All",77,46,31
 "Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Weekly","Full-Time",46,22,24
-"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Weekly","Part-Time",32,24,7
-"Number of Jobs (Thousands)",2025,"Ards and North Down","Hourly (excluding overtime)","All",60,34,25
+"Number of Jobs (Thousands)",2025,"Newry, Mourne and Down","Weekly","Part-Time",31,24,7
+"Number of Jobs (Thousands)",2025,"Ards and North Down","Hourly (excluding overtime)","All",58,33,25
 "Number of Jobs (Thousands)",2025,"Ards and North Down","Hourly (excluding overtime)","Full-Time",35,17,18
-"Number of Jobs (Thousands)",2025,"Ards and North Down","Hourly (excluding overtime)","Part-Time",25,17,8
-"Number of Jobs (Thousands)",2025,"Ards and North Down","Weekly","All",60,34,25
+"Number of Jobs (Thousands)",2025,"Ards and North Down","Hourly (excluding overtime)","Part-Time",24,17,7
+"Number of Jobs (Thousands)",2025,"Ards and North Down","Weekly","All",58,33,25
 "Number of Jobs (Thousands)",2025,"Ards and North Down","Weekly","Full-Time",35,17,18
-"Number of Jobs (Thousands)",2025,"Ards and North Down","Weekly","Part-Time",25,17,8
+"Number of Jobs (Thousands)",2025,"Ards and North Down","Weekly","Part-Time",24,17,7
+"Number of Jobs (Thousands)",2026,"Northern Ireland","Hourly (excluding overtime)","All",1004,526,479
+"Number of Jobs (Thousands)",2026,"Northern Ireland","Hourly (excluding overtime)","Full-Time",699,303,396
+"Number of Jobs (Thousands)",2026,"Northern Ireland","Hourly (excluding overtime)","Part-Time",306,223,83
+"Number of Jobs (Thousands)",2026,"Northern Ireland","Weekly","All",1004,526,479
+"Number of Jobs (Thousands)",2026,"Northern Ireland","Weekly","Full-Time",699,303,396
+"Number of Jobs (Thousands)",2026,"Northern Ireland","Weekly","Part-Time",306,223,83
+"Number of Jobs (Thousands)",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",68,34,34
+"Number of Jobs (Thousands)",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",48,19,29
+"Number of Jobs (Thousands)",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",20,15,6
+"Number of Jobs (Thousands)",2026,"Antrim and Newtownabbey","Weekly","All",68,34,34
+"Number of Jobs (Thousands)",2026,"Antrim and Newtownabbey","Weekly","Full-Time",48,19,29
+"Number of Jobs (Thousands)",2026,"Antrim and Newtownabbey","Weekly","Part-Time",20,15,6
+"Number of Jobs (Thousands)",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",104,57,47
+"Number of Jobs (Thousands)",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",72,33,38
+"Number of Jobs (Thousands)",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",32,24,8
+"Number of Jobs (Thousands)",2026,"Armagh City, Banbridge and Craigavon","Weekly","All",104,57,47
+"Number of Jobs (Thousands)",2026,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",72,33,38
+"Number of Jobs (Thousands)",2026,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",32,24,8
+"Number of Jobs (Thousands)",2026,"Belfast","Hourly (excluding overtime)","All",313,160,153
+"Number of Jobs (Thousands)",2026,"Belfast","Hourly (excluding overtime)","Full-Time",231,102,129
+"Number of Jobs (Thousands)",2026,"Belfast","Hourly (excluding overtime)","Part-Time",82,58,24
+"Number of Jobs (Thousands)",2026,"Belfast","Weekly","All",313,160,153
+"Number of Jobs (Thousands)",2026,"Belfast","Weekly","Full-Time",231,102,129
+"Number of Jobs (Thousands)",2026,"Belfast","Weekly","Part-Time",82,58,24
+"Number of Jobs (Thousands)",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","All",55,32,23
+"Number of Jobs (Thousands)",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",34,16,18
+"Number of Jobs (Thousands)",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",21,16,5
+"Number of Jobs (Thousands)",2026,"Causeway Coast and Glens","Weekly","All",55,32,23
+"Number of Jobs (Thousands)",2026,"Causeway Coast and Glens","Weekly","Full-Time",34,16,18
+"Number of Jobs (Thousands)",2026,"Causeway Coast and Glens","Weekly","Part-Time",21,16,5
+"Number of Jobs (Thousands)",2026,"Derry City and Strabane","Hourly (excluding overtime)","All",73,41,32
+"Number of Jobs (Thousands)",2026,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",51,24,26
+"Number of Jobs (Thousands)",2026,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",23,17,6
+"Number of Jobs (Thousands)",2026,"Derry City and Strabane","Weekly","All",73,41,32
+"Number of Jobs (Thousands)",2026,"Derry City and Strabane","Weekly","Full-Time",51,24,26
+"Number of Jobs (Thousands)",2026,"Derry City and Strabane","Weekly","Part-Time",23,17,6
+"Number of Jobs (Thousands)",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","All",53,28,26
+"Number of Jobs (Thousands)",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",34,13,20
+"Number of Jobs (Thousands)",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",20,14,5
+"Number of Jobs (Thousands)",2026,"Fermanagh and Omagh","Weekly","All",53,28,26
+"Number of Jobs (Thousands)",2026,"Fermanagh and Omagh","Weekly","Full-Time",34,13,20
+"Number of Jobs (Thousands)",2026,"Fermanagh and Omagh","Weekly","Part-Time",20,14,5
+"Number of Jobs (Thousands)",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",77,40,37
+"Number of Jobs (Thousands)",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",51,22,28
+"Number of Jobs (Thousands)",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",27,18,9
+"Number of Jobs (Thousands)",2026,"Lisburn and Castlereagh","Weekly","All",77,40,37
+"Number of Jobs (Thousands)",2026,"Lisburn and Castlereagh","Weekly","Full-Time",51,22,28
+"Number of Jobs (Thousands)",2026,"Lisburn and Castlereagh","Weekly","Part-Time",27,18,9
+"Number of Jobs (Thousands)",2026,"Mid and East Antrim","Hourly (excluding overtime)","All",54,27,27
+"Number of Jobs (Thousands)",2026,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",37,15,23
+"Number of Jobs (Thousands)",2026,"Mid and East Antrim","Hourly (excluding overtime)","Part-Time",16,12,4
+"Number of Jobs (Thousands)",2026,"Mid and East Antrim","Weekly","All",54,27,27
+"Number of Jobs (Thousands)",2026,"Mid and East Antrim","Weekly","Full-Time",37,15,23
+"Number of Jobs (Thousands)",2026,"Mid and East Antrim","Weekly","Part-Time",16,12,4
+"Number of Jobs (Thousands)",2026,"Mid Ulster","Hourly (excluding overtime)","All",68,30,38
+"Number of Jobs (Thousands)",2026,"Mid Ulster","Hourly (excluding overtime)","Full-Time",51,18,33
+"Number of Jobs (Thousands)",2026,"Mid Ulster","Hourly (excluding overtime)","Part-Time",18,13,5
+"Number of Jobs (Thousands)",2026,"Mid Ulster","Weekly","All",68,30,38
+"Number of Jobs (Thousands)",2026,"Mid Ulster","Weekly","Full-Time",51,18,33
+"Number of Jobs (Thousands)",2026,"Mid Ulster","Weekly","Part-Time",18,13,5
+"Number of Jobs (Thousands)",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","All",69,42,28
+"Number of Jobs (Thousands)",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",43,21,23
+"Number of Jobs (Thousands)",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",26,21,5
+"Number of Jobs (Thousands)",2026,"Newry, Mourne and Down","Weekly","All",69,42,28
+"Number of Jobs (Thousands)",2026,"Newry, Mourne and Down","Weekly","Full-Time",43,21,23
+"Number of Jobs (Thousands)",2026,"Newry, Mourne and Down","Weekly","Part-Time",26,21,5
+"Number of Jobs (Thousands)",2026,"Ards and North Down","Hourly (excluding overtime)","All",52,31,21
+"Number of Jobs (Thousands)",2026,"Ards and North Down","Hourly (excluding overtime)","Full-Time",31,16,15
+"Number of Jobs (Thousands)",2026,"Ards and North Down","Hourly (excluding overtime)","Part-Time",21,15,6
+"Number of Jobs (Thousands)",2026,"Ards and North Down","Weekly","All",52,31,21
+"Number of Jobs (Thousands)",2026,"Ards and North Down","Weekly","Full-Time",31,16,15
+"Number of Jobs (Thousands)",2026,"Ards and North Down","Weekly","Part-Time",21,15,6
 "Median Wage",2014,"Northern Ireland","Hourly (excluding overtime)","All",10.12,9.59,10.74
 "Median Wage",2014,"Northern Ireland","Hourly (excluding overtime)","Full-Time",11.36,11.45,11.32
 "Median Wage",2014,"Northern Ireland","Hourly (excluding overtime)","Part-Time",7.96,8.05,7.63
@@ -1655,78 +1727,150 @@
 "Median Wage",2024,"Ards and North Down","Weekly","All",459.8,416.9,487.7
 "Median Wage",2024,"Ards and North Down","Weekly","Full-Time",604,606.7,587.4
 "Median Wage",2024,"Ards and North Down","Weekly","Part-Time",219.9,221.1,NA
-"Median Wage",2025,"Northern Ireland","Hourly (excluding overtime)","All",16.17,15.57,16.77
-"Median Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Full-Time",17.76,17.67,17.87
-"Median Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Part-Time",13.42,13.56,12.92
-"Median Wage",2025,"Northern Ireland","Weekly","All",591.9,527.1,674
-"Median Wage",2025,"Northern Ireland","Weekly","Full-Time",713.1,678.4,742.5
-"Median Wage",2025,"Northern Ireland","Weekly","Part-Time",272.2,284.4,240
-"Median Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",15.97,15.28,16.52
-"Median Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",16.83,17.13,16.77
-"Median Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",13.36,13.42,12.53
-"Median Wage",2025,"Antrim and Newtownabbey","Weekly","All",594.7,542.2,652.9
-"Median Wage",2025,"Antrim and Newtownabbey","Weekly","Full-Time",693.6,650.9,719.1
-"Median Wage",2025,"Antrim and Newtownabbey","Weekly","Part-Time",256.5,280.6,NA
-"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",15.17,14.88,15.72
-"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",16.35,15.9,16.43
-"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",13.57,14,12.5
-"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","All",559.1,514.6,635.2
-"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",675.3,657.7,701.5
-"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",295,305.4,230.7
-"Median Wage",2025,"Belfast","Hourly (excluding overtime)","All",18.23,17.51,19.09
-"Median Wage",2025,"Belfast","Hourly (excluding overtime)","Full-Time",19.53,18.95,19.91
-"Median Wage",2025,"Belfast","Hourly (excluding overtime)","Part-Time",14,14.35,13.5
-"Median Wage",2025,"Belfast","Weekly","All",661.6,589.4,737.9
-"Median Wage",2025,"Belfast","Weekly","Full-Time",766.6,724.9,797.6
-"Median Wage",2025,"Belfast","Weekly","Part-Time",283,295.9,254.5
+"Median Wage",2025,"Northern Ireland","Hourly (excluding overtime)","All",16.1,15.45,16.69
+"Median Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Full-Time",17.67,17.52,17.69
+"Median Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Part-Time",13.42,13.5,12.83
+"Median Wage",2025,"Northern Ireland","Weekly","All",590.4,523.6,670.8
+"Median Wage",2025,"Northern Ireland","Weekly","Full-Time",710.7,675.8,739.6
+"Median Wage",2025,"Northern Ireland","Weekly","Part-Time",270.8,282.4,240
+"Median Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",15.93,15.25,16.47
+"Median Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",16.93,17.2,16.77
+"Median Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",13.35,13.41,12.48
+"Median Wage",2025,"Antrim and Newtownabbey","Weekly","All",594.2,539.5,652.1
+"Median Wage",2025,"Antrim and Newtownabbey","Weekly","Full-Time",683.7,651.1,714.8
+"Median Wage",2025,"Antrim and Newtownabbey","Weekly","Part-Time",254.8,267.8,NA
+"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",15.2,14.88,15.75
+"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",16.38,15.9,16.43
+"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",13.57,13.98,12.64
+"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","All",558.1,511.5,632.2
+"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",676.1,658.7,692.4
+"Median Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",295.6,305.6,237.2
+"Median Wage",2025,"Belfast","Hourly (excluding overtime)","All",17.99,17.28,18.78
+"Median Wage",2025,"Belfast","Hourly (excluding overtime)","Full-Time",19.43,18.94,19.68
+"Median Wage",2025,"Belfast","Hourly (excluding overtime)","Part-Time",13.87,14.02,13.41
+"Median Wage",2025,"Belfast","Weekly","All",651.3,584.6,727.6
+"Median Wage",2025,"Belfast","Weekly","Full-Time",761.7,723,791.9
+"Median Wage",2025,"Belfast","Weekly","Part-Time",279.6,292,244
 "Median Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","All",14.76,14.76,14.64
-"Median Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",15.23,15.59,14.98
+"Median Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",15.1,15.59,14.98
 "Median Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",13.3,13.36,13
-"Median Wage",2025,"Causeway Coast and Glens","Weekly","All",519.7,449.1,580.2
-"Median Wage",2025,"Causeway Coast and Glens","Weekly","Full-Time",615,594.3,628.9
-"Median Wage",2025,"Causeway Coast and Glens","Weekly","Part-Time",280.1,283.4,NA
-"Median Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","All",16.15,15.32,16.93
-"Median Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",17.74,17.81,17.4
-"Median Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",13.42,13.42,14.43
-"Median Wage",2025,"Derry City and Strabane","Weekly","All",582,494.6,678.3
-"Median Wage",2025,"Derry City and Strabane","Weekly","Full-Time",700,646.4,711.1
-"Median Wage",2025,"Derry City and Strabane","Weekly","Part-Time",276.9,280.1,NA
-"Median Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","All",16,15.31,16.11
-"Median Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",17.59,16.95,17.65
-"Median Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",13.77,14.66,12.5
-"Median Wage",2025,"Fermanagh and Omagh","Weekly","All",572.5,478.8,679.4
-"Median Wage",2025,"Fermanagh and Omagh","Weekly","Full-Time",710.6,633,746.8
-"Median Wage",2025,"Fermanagh and Omagh","Weekly","Part-Time",280.5,312.5,NA
-"Median Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",16.72,15.8,18.28
-"Median Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",18.65,18.54,18.74
-"Median Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",13.64,13.63,13.52
-"Median Wage",2025,"Lisburn and Castlereagh","Weekly","All",601.4,521.8,709.6
-"Median Wage",2025,"Lisburn and Castlereagh","Weekly","Full-Time",736.5,704.1,764
-"Median Wage",2025,"Lisburn and Castlereagh","Weekly","Part-Time",256.1,262.9,NA
-"Median Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","All",14.93,14.04,16.04
-"Median Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",16.04,14.76,16.35
+"Median Wage",2025,"Causeway Coast and Glens","Weekly","All",523.5,449.2,574.8
+"Median Wage",2025,"Causeway Coast and Glens","Weekly","Full-Time",614.5,594.9,618.6
+"Median Wage",2025,"Causeway Coast and Glens","Weekly","Part-Time",281.8,283.2,NA
+"Median Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","All",16.14,15.05,16.92
+"Median Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",17.69,17.8,17.6
+"Median Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",13.42,13.31,14.23
+"Median Wage",2025,"Derry City and Strabane","Weekly","All",580,492.1,678.3
+"Median Wage",2025,"Derry City and Strabane","Weekly","Full-Time",702.2,646.3,715.3
+"Median Wage",2025,"Derry City and Strabane","Weekly","Part-Time",270.9,272.2,NA
+"Median Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","All",15.83,14.98,16.02
+"Median Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",17.2,16.66,17.6
+"Median Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",13.51,14.54,12.5
+"Median Wage",2025,"Fermanagh and Omagh","Weekly","All",571,470.8,673.5
+"Median Wage",2025,"Fermanagh and Omagh","Weekly","Full-Time",694.6,624.5,730.8
+"Median Wage",2025,"Fermanagh and Omagh","Weekly","Part-Time",280.4,307.4,NA
+"Median Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",16.56,15.76,18.19
+"Median Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",18.65,18.61,18.71
+"Median Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",13.61,13.58,13.72
+"Median Wage",2025,"Lisburn and Castlereagh","Weekly","All",601.4,519.3,708.3
+"Median Wage",2025,"Lisburn and Castlereagh","Weekly","Full-Time",735.6,705.4,764.4
+"Median Wage",2025,"Lisburn and Castlereagh","Weekly","Part-Time",258.9,264.7,NA
+"Median Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","All",14.88,14.02,16.02
+"Median Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",16.02,14.76,16.31
 "Median Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","Part-Time",13.42,13.42,12.5
-"Median Wage",2025,"Mid and East Antrim","Weekly","All",575.4,485.6,647.6
-"Median Wage",2025,"Mid and East Antrim","Weekly","Full-Time",648.3,596.1,696.4
-"Median Wage",2025,"Mid and East Antrim","Weekly","Part-Time",280.8,296.2,NA
+"Median Wage",2025,"Mid and East Antrim","Weekly","All",575.1,485.1,644.2
+"Median Wage",2025,"Mid and East Antrim","Weekly","Full-Time",648,596.2,695.9
+"Median Wage",2025,"Mid and East Antrim","Weekly","Part-Time",275.7,301.7,NA
 "Median Wage",2025,"Mid Ulster","Hourly (excluding overtime)","All",15,14.76,15.33
-"Median Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Full-Time",16,16.29,15.8
-"Median Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Part-Time",13.09,13.14,12.75
-"Median Wage",2025,"Mid Ulster","Weekly","All",581.1,490.1,640.6
-"Median Wage",2025,"Mid Ulster","Weekly","Full-Time",672.8,643.3,680.2
-"Median Wage",2025,"Mid Ulster","Weekly","Part-Time",246,267.5,NA
-"Median Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","All",15,14.82,15.19
-"Median Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",16.36,16.53,16.02
-"Median Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",13.42,13.71,12.6
-"Median Wage",2025,"Newry, Mourne and Down","Weekly","All",534.4,485,611.9
-"Median Wage",2025,"Newry, Mourne and Down","Weekly","Full-Time",664.6,664.1,665
-"Median Wage",2025,"Newry, Mourne and Down","Weekly","Part-Time",272,280.6,240.4
-"Median Wage",2025,"Ards and North Down","Hourly (excluding overtime)","All",14.56,14.76,14.28
-"Median Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Full-Time",15.93,16.01,15.88
-"Median Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Part-Time",13.09,13.42,12.49
-"Median Wage",2025,"Ards and North Down","Weekly","All",505.8,479.1,536.9
-"Median Wage",2025,"Ards and North Down","Weekly","Full-Time",651.4,647.5,650.3
-"Median Wage",2025,"Ards and North Down","Weekly","Part-Time",240.8,244.8,NA
+"Median Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Full-Time",16,16.01,16
+"Median Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Part-Time",13,13.13,12.38
+"Median Wage",2025,"Mid Ulster","Weekly","All",580.2,491.6,640.7
+"Median Wage",2025,"Mid Ulster","Weekly","Full-Time",673,629.7,686.8
+"Median Wage",2025,"Mid Ulster","Weekly","Part-Time",242.7,260.2,NA
+"Median Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","All",14.92,14.76,15.14
+"Median Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",16.31,16.51,16.04
+"Median Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",13.42,13.47,12.6
+"Median Wage",2025,"Newry, Mourne and Down","Weekly","All",535.7,480.9,615.5
+"Median Wage",2025,"Newry, Mourne and Down","Weekly","Full-Time",664.2,654.3,666.3
+"Median Wage",2025,"Newry, Mourne and Down","Weekly","Part-Time",272.4,277.9,249
+"Median Wage",2025,"Ards and North Down","Hourly (excluding overtime)","All",14.55,14.76,14.26
+"Median Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Full-Time",15.89,16,15.88
+"Median Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Part-Time",13.08,13.42,12.53
+"Median Wage",2025,"Ards and North Down","Weekly","All",506.7,480.3,538.2
+"Median Wage",2025,"Ards and North Down","Weekly","Full-Time",652.1,653.1,651
+"Median Wage",2025,"Ards and North Down","Weekly","Part-Time",240.9,246.7,203.2
+"Median Wage",2026,"Northern Ireland","Hourly (excluding overtime)","All",17.12,16.58,17.84
+"Median Wage",2026,"Northern Ireland","Hourly (excluding overtime)","Full-Time",19.23,19.32,19.02
+"Median Wage",2026,"Northern Ireland","Hourly (excluding overtime)","Part-Time",14.07,14.33,13.5
+"Median Wage",2026,"Northern Ireland","Weekly","All",624.7,557.7,707.3
+"Median Wage",2026,"Northern Ireland","Weekly","Full-Time",754.4,735.3,781.4
+"Median Wage",2026,"Northern Ireland","Weekly","Part-Time",281.3,292.4,253.6
+"Median Wage",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",16.67,16.43,16.8
+"Median Wage",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",18.14,18.47,17.91
+"Median Wage",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",13.91,14.2,12.93
+"Median Wage",2026,"Antrim and Newtownabbey","Weekly","All",612.5,561.7,670.8
+"Median Wage",2026,"Antrim and Newtownabbey","Weekly","Full-Time",737.9,677.2,748.1
+"Median Wage",2026,"Antrim and Newtownabbey","Weekly","Part-Time",285.9,269.4,298.1
+"Median Wage",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",16.08,15.64,16.43
+"Median Wage",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",18,18.96,17.31
+"Median Wage",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",14.14,14.48,13.25
+"Median Wage",2026,"Armagh City, Banbridge and Craigavon","Weekly","All",597.8,556.8,650.7
+"Median Wage",2026,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",732.5,733.5,731.3
+"Median Wage",2026,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",304.3,331.4,230.3
+"Median Wage",2026,"Belfast","Hourly (excluding overtime)","All",19.44,19.29,19.91
+"Median Wage",2026,"Belfast","Hourly (excluding overtime)","Full-Time",21.12,20.81,21.55
+"Median Wage",2026,"Belfast","Hourly (excluding overtime)","Part-Time",14.99,15.23,14.52
+"Median Wage",2026,"Belfast","Weekly","All",693.9,622.3,760.3
+"Median Wage",2026,"Belfast","Weekly","Full-Time",813.3,774.4,843.4
+"Median Wage",2026,"Belfast","Weekly","Part-Time",286.6,307.4,229.6
+"Median Wage",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","All",15.23,15.23,15.18
+"Median Wage",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",15.89,16.25,15.43
+"Median Wage",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",13.79,13.85,13.28
+"Median Wage",2026,"Causeway Coast and Glens","Weekly","All",531.7,488,570.7
+"Median Wage",2026,"Causeway Coast and Glens","Weekly","Full-Time",640.5,614.3,641.7
+"Median Wage",2026,"Causeway Coast and Glens","Weekly","Part-Time",305.4,301.9,NA
+"Median Wage",2026,"Derry City and Strabane","Hourly (excluding overtime)","All",16.81,16.09,17.49
+"Median Wage",2026,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",18.9,19.33,18.24
+"Median Wage",2026,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",14.31,14.07,14.84
+"Median Wage",2026,"Derry City and Strabane","Weekly","All",595.1,538,693.7
+"Median Wage",2026,"Derry City and Strabane","Weekly","Full-Time",746.8,724.6,763.4
+"Median Wage",2026,"Derry City and Strabane","Weekly","Part-Time",263.8,260.6,265.8
+"Median Wage",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","All",16.22,15.79,17.07
+"Median Wage",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",17.98,17.73,18.02
+"Median Wage",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",14.68,14.99,13.95
+"Median Wage",2026,"Fermanagh and Omagh","Weekly","All",555.5,466.7,670
+"Median Wage",2026,"Fermanagh and Omagh","Weekly","Full-Time",708.5,691.4,736.6
+"Median Wage",2026,"Fermanagh and Omagh","Weekly","Part-Time",299.3,305.7,284.1
+"Median Wage",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",17.73,17.08,18.8
+"Median Wage",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",19.78,19.9,19.36
+"Median Wage",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",14.42,14.6,13.46
+"Median Wage",2026,"Lisburn and Castlereagh","Weekly","All",627,561.6,718.4
+"Median Wage",2026,"Lisburn and Castlereagh","Weekly","Full-Time",766.1,753,782.1
+"Median Wage",2026,"Lisburn and Castlereagh","Weekly","Part-Time",302.1,308.9,251.7
+"Median Wage",2026,"Mid and East Antrim","Hourly (excluding overtime)","All",16.48,15.48,17.18
+"Median Wage",2026,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",17.2,16.67,17.52
+"Median Wage",2026,"Mid and East Antrim","Hourly (excluding overtime)","Part-Time",14.07,14.05,14.51
+"Median Wage",2026,"Mid and East Antrim","Weekly","All",613.9,520.6,688.3
+"Median Wage",2026,"Mid and East Antrim","Weekly","Full-Time",698.8,644.8,740.1
+"Median Wage",2026,"Mid and East Antrim","Weekly","Part-Time",268.7,279.8,NA
+"Median Wage",2026,"Mid Ulster","Hourly (excluding overtime)","All",15.88,15.26,16.54
+"Median Wage",2026,"Mid Ulster","Hourly (excluding overtime)","Full-Time",17.08,15.96,17.51
+"Median Wage",2026,"Mid Ulster","Hourly (excluding overtime)","Part-Time",13.34,13.6,12.98
+"Median Wage",2026,"Mid Ulster","Weekly","All",622.4,518.3,710.5
+"Median Wage",2026,"Mid Ulster","Weekly","Full-Time",716.1,643.9,753.3
+"Median Wage",2026,"Mid Ulster","Weekly","Part-Time",264.1,284.9,NA
+"Median Wage",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","All",15.87,15.48,16
+"Median Wage",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",17.54,17.82,17.02
+"Median Wage",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",13.98,14.07,13.33
+"Median Wage",2026,"Newry, Mourne and Down","Weekly","All",572.9,507,678
+"Median Wage",2026,"Newry, Mourne and Down","Weekly","Full-Time",717.1,707,728.9
+"Median Wage",2026,"Newry, Mourne and Down","Weekly","Part-Time",267.8,270.4,NA
+"Median Wage",2026,"Ards and North Down","Hourly (excluding overtime)","All",15.48,15.47,15.55
+"Median Wage",2026,"Ards and North Down","Hourly (excluding overtime)","Full-Time",17.75,17.8,17.43
+"Median Wage",2026,"Ards and North Down","Hourly (excluding overtime)","Part-Time",13.7,14.05,13.04
+"Median Wage",2026,"Ards and North Down","Weekly","All",520.4,492.9,584.1
+"Median Wage",2026,"Ards and North Down","Weekly","Full-Time",716.3,718.8,701.5
+"Median Wage",2026,"Ards and North Down","Weekly","Part-Time",255.2,257,250.6
 "Mean Wage",2014,"Northern Ireland","Hourly (excluding overtime)","All",12.98,12.38,13.44
 "Mean Wage",2014,"Northern Ireland","Hourly (excluding overtime)","Full-Time",13.56,13.21,13.76
 "Mean Wage",2014,"Northern Ireland","Hourly (excluding overtime)","Part-Time",10.19,10.33,9.79
@@ -2519,75 +2663,147 @@
 "Mean Wage",2024,"Ards and North Down","Weekly","All",488.9,426.6,577.2
 "Mean Wage",2024,"Ards and North Down","Weekly","Full-Time",671.8,631.6,708.1
 "Mean Wage",2024,"Ards and North Down","Weekly","Part-Time",237.9,246.2,214.3
-"Mean Wage",2025,"Northern Ireland","Hourly (excluding overtime)","All",20.27,19.26,21.21
-"Mean Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Full-Time",20.97,20.1,21.63
-"Mean Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Part-Time",16.7,16.84,16.27
-"Mean Wage",2025,"Northern Ireland","Weekly","All",665.9,573,768.7
-"Mean Wage",2025,"Northern Ireland","Weekly","Full-Time",818.2,758.4,864.4
-"Mean Wage",2025,"Northern Ireland","Weekly","Part-Time",304.8,312.8,282.4
-"Mean Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",20.58,18.73,22.22
-"Mean Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",21.09,19.34,22.33
-"Mean Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",17.7,16.93,NA
-"Mean Wage",2025,"Antrim and Newtownabbey","Weekly","All",693.8,565.4,831.3
-"Mean Wage",2025,"Antrim and Newtownabbey","Weekly","Full-Time",833.6,730,910.4
-"Mean Wage",2025,"Antrim and Newtownabbey","Weekly","Part-Time",325.4,321.5,NA
-"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",19.39,18.69,20.13
-"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",20.04,19.33,20.63
-"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",16.33,16.93,14.16
-"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","All",645.2,572.2,734.3
-"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",790.8,744.1,830.7
-"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",313.5,333.3,253
-"Mean Wage",2025,"Belfast","Hourly (excluding overtime)","All",22.33,21.17,23.4
-"Mean Wage",2025,"Belfast","Hourly (excluding overtime)","Full-Time",22.98,21.9,23.83
-"Mean Wage",2025,"Belfast","Hourly (excluding overtime)","Part-Time",17.95,18.18,17.36
-"Mean Wage",2025,"Belfast","Weekly","All",742.7,655.6,833.7
-"Mean Wage",2025,"Belfast","Weekly","Full-Time",878.5,822.8,923.3
-"Mean Wage",2025,"Belfast","Weekly","Part-Time",317.6,328.8,289.7
-"Mean Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","All",17.56,17.69,17.43
-"Mean Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",18,18.65,17.51
-"Mean Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",16.18,15.84,16.99
-"Mean Wage",2025,"Causeway Coast and Glens","Weekly","All",544.3,491.9,607.6
-"Mean Wage",2025,"Causeway Coast and Glens","Weekly","Full-Time",695.7,687,702.8
-"Mean Wage",2025,"Causeway Coast and Glens","Weekly","Part-Time",308.7,299.7,330.1
-"Mean Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","All",19.47,18.67,20.26
-"Mean Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",20.1,19.6,20.49
-"Mean Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",16.6,16.29,17.64
-"Mean Wage",2025,"Derry City and Strabane","Weekly","All",623.5,540.4,723
-"Mean Wage",2025,"Derry City and Strabane","Weekly","Full-Time",765.6,711.1,810.6
-"Mean Wage",2025,"Derry City and Strabane","Weekly","Part-Time",308,311.5,297.4
-"Mean Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","All",19.6,19.29,19.86
-"Mean Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",20.36,20.34,20.37
-"Mean Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",16.28,17.08,13.3
-"Mean Wage",2025,"Fermanagh and Omagh","Weekly","All",631.3,540.9,728.9
-"Mean Wage",2025,"Fermanagh and Omagh","Weekly","Full-Time",794.1,745.2,826.8
-"Mean Wage",2025,"Fermanagh and Omagh","Weekly","Part-Time",297.5,320.1,225.2
-"Mean Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",20.48,18.59,22.32
-"Mean Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",21.08,19.15,22.58
-"Mean Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",17.49,17.05,19.03
-"Mean Wage",2025,"Lisburn and Castlereagh","Weekly","All",667.3,552.2,800.9
-"Mean Wage",2025,"Lisburn and Castlereagh","Weekly","Full-Time",833.6,739.3,908.4
-"Mean Wage",2025,"Lisburn and Castlereagh","Weekly","Part-Time",308,311.1,NA
-"Mean Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","All",18.49,17.39,19.39
-"Mean Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",19.03,17.77,19.83
-"Mean Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","Part-Time",15.73,16.4,13.63
-"Mean Wage",2025,"Mid and East Antrim","Weekly","All",624,515.3,734.2
-"Mean Wage",2025,"Mid and East Antrim","Weekly","Full-Time",758.4,678.3,811.5
-"Mean Wage",2025,"Mid and East Antrim","Weekly","Part-Time",292.5,304.2,255.4
-"Mean Wage",2025,"Mid Ulster","Hourly (excluding overtime)","All",18.05,17.36,18.52
-"Mean Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Full-Time",18.7,18.54,18.78
-"Mean Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Part-Time",14.35,14.31,14.47
-"Mean Wage",2025,"Mid Ulster","Weekly","All",618,508.4,712.4
-"Mean Wage",2025,"Mid Ulster","Weekly","Full-Time",757.6,702.7,788
-"Mean Wage",2025,"Mid Ulster","Weekly","Part-Time",256.4,265.5,230.9
-"Mean Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","All",18.59,17.9,19.44
-"Mean Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",19.37,18.64,20.03
-"Mean Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",16.23,16.52,15.27
-"Mean Wage",2025,"Newry, Mourne and Down","Weekly","All",576.8,502.4,687.9
-"Mean Wage",2025,"Newry, Mourne and Down","Weekly","Full-Time",761.4,717.5,801.8
-"Mean Wage",2025,"Newry, Mourne and Down","Weekly","Part-Time",306.9,307.4,305.2
-"Mean Wage",2025,"Ards and North Down","Hourly (excluding overtime)","All",18.04,17.63,18.52
-"Mean Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Full-Time",18.87,18.35,19.37
-"Mean Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Part-Time",15.51,16.13,14.02
-"Mean Wage",2025,"Ards and North Down","Weekly","All",535.4,486.5,602
-"Mean Wage",2025,"Ards and North Down","Weekly","Full-Time",722,690.6,752.4
-"Mean Wage",2025,"Ards and North Down","Weekly","Part-Time",274.1,284.6,250.3
+"Mean Wage",2025,"Northern Ireland","Hourly (excluding overtime)","All",20.15,19.17,21.06
+"Mean Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Full-Time",20.86,20.05,21.47
+"Mean Wage",2025,"Northern Ireland","Hourly (excluding overtime)","Part-Time",16.57,16.66,16.31
+"Mean Wage",2025,"Northern Ireland","Weekly","All",662.8,570.6,764.3
+"Mean Wage",2025,"Northern Ireland","Weekly","Full-Time",814.9,757,859.4
+"Mean Wage",2025,"Northern Ireland","Weekly","Part-Time",302.8,309.5,284.1
+"Mean Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",20.53,18.71,22.16
+"Mean Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",21.07,19.38,22.26
+"Mean Wage",2025,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",17.55,16.79,NA
+"Mean Wage",2025,"Antrim and Newtownabbey","Weekly","All",689.8,560.1,830.7
+"Mean Wage",2025,"Antrim and Newtownabbey","Weekly","Full-Time",832,730.2,907.1
+"Mean Wage",2025,"Antrim and Newtownabbey","Weekly","Part-Time",320.1,316.5,NA
+"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",19.47,18.86,20.11
+"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",20.14,19.6,20.59
+"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",16.35,16.88,14.41
+"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","All",646.3,575.9,732.8
+"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",795.1,755.3,828.8
+"Mean Wage",2025,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",314.6,333,257.4
+"Mean Wage",2025,"Belfast","Hourly (excluding overtime)","All",22.09,21,23.09
+"Mean Wage",2025,"Belfast","Hourly (excluding overtime)","Full-Time",22.78,21.79,23.56
+"Mean Wage",2025,"Belfast","Hourly (excluding overtime)","Part-Time",17.44,17.75,16.59
+"Mean Wage",2025,"Belfast","Weekly","All",735.6,651,823.9
+"Mean Wage",2025,"Belfast","Weekly","Full-Time",871.5,819.2,913.5
+"Mean Wage",2025,"Belfast","Weekly","Part-Time",309.9,322.3,278.9
+"Mean Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","All",17.6,17.7,17.51
+"Mean Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",17.97,18.66,17.45
+"Mean Wage",2025,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",16.47,15.84,17.89
+"Mean Wage",2025,"Causeway Coast and Glens","Weekly","All",544.3,491.9,606.2
+"Mean Wage",2025,"Causeway Coast and Glens","Weekly","Full-Time",694.6,687.3,700.5
+"Mean Wage",2025,"Causeway Coast and Glens","Weekly","Part-Time",312.6,299.6,342
+"Mean Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","All",19.33,18.5,20.16
+"Mean Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",20.01,19.49,20.4
+"Mean Wage",2025,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",16.33,16.01,17.41
+"Mean Wage",2025,"Derry City and Strabane","Weekly","All",620.5,536.1,721.4
+"Mean Wage",2025,"Derry City and Strabane","Weekly","Full-Time",764.8,709.6,810
+"Mean Wage",2025,"Derry City and Strabane","Weekly","Part-Time",303.6,307.2,292.8
+"Mean Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","All",19.32,19.04,19.55
+"Mean Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",20.1,20.17,20.07
+"Mean Wage",2025,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",15.8,16.55,13.23
+"Mean Wage",2025,"Fermanagh and Omagh","Weekly","All",625.7,535.9,720.8
+"Mean Wage",2025,"Fermanagh and Omagh","Weekly","Full-Time",785.8,740,816.4
+"Mean Wage",2025,"Fermanagh and Omagh","Weekly","Part-Time",288.6,307.3,231.3
+"Mean Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",20.4,18.55,22.15
+"Mean Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",21.05,19.16,22.48
+"Mean Wage",2025,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",17.26,16.91,18.4
+"Mean Wage",2025,"Lisburn and Castlereagh","Weekly","All",665.3,550.2,796.5
+"Mean Wage",2025,"Lisburn and Castlereagh","Weekly","Full-Time",834,739.3,907.7
+"Mean Wage",2025,"Lisburn and Castlereagh","Weekly","Part-Time",307.9,311,NA
+"Mean Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","All",18.47,17.35,19.38
+"Mean Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",18.99,17.72,19.8
+"Mean Wage",2025,"Mid and East Antrim","Hourly (excluding overtime)","Part-Time",15.71,16.36,13.5
+"Mean Wage",2025,"Mid and East Antrim","Weekly","All",621.1,513.1,730.7
+"Mean Wage",2025,"Mid and East Antrim","Weekly","Full-Time",756.8,677,809.4
+"Mean Wage",2025,"Mid and East Antrim","Weekly","Part-Time",288,303.8,236.8
+"Mean Wage",2025,"Mid Ulster","Hourly (excluding overtime)","All",17.98,17.22,18.5
+"Mean Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Full-Time",18.63,18.31,18.8
+"Mean Wage",2025,"Mid Ulster","Hourly (excluding overtime)","Part-Time",14.24,14.29,14.09
+"Mean Wage",2025,"Mid Ulster","Weekly","All",615.1,507.8,707.9
+"Mean Wage",2025,"Mid Ulster","Weekly","Full-Time",757.4,697.1,791.9
+"Mean Wage",2025,"Mid Ulster","Weekly","Part-Time",251.1,263,220.7
+"Mean Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","All",18.69,17.83,19.71
+"Mean Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",19.31,18.54,20
+"Mean Wage",2025,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",16.79,16.47,17.79
+"Mean Wage",2025,"Newry, Mourne and Down","Weekly","All",581.9,499.9,703.2
+"Mean Wage",2025,"Newry, Mourne and Down","Weekly","Full-Time",759.2,710.5,804.3
+"Mean Wage",2025,"Newry, Mourne and Down","Weekly","Part-Time",318,304,365
+"Mean Wage",2025,"Ards and North Down","Hourly (excluding overtime)","All",18,17.6,18.45
+"Mean Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Full-Time",18.78,18.28,19.25
+"Mean Wage",2025,"Ards and North Down","Hourly (excluding overtime)","Part-Time",15.5,16.13,14.05
+"Mean Wage",2025,"Ards and North Down","Weekly","All",540.7,491.5,606.1
+"Mean Wage",2025,"Ards and North Down","Weekly","Full-Time",722.2,692.2,750.7
+"Mean Wage",2025,"Ards and North Down","Weekly","Part-Time",276.3,286.1,254.1
+"Mean Wage",2026,"Northern Ireland","Hourly (excluding overtime)","All",21.62,20.67,22.49
+"Mean Wage",2026,"Northern Ireland","Hourly (excluding overtime)","Full-Time",22.48,21.78,23
+"Mean Wage",2026,"Northern Ireland","Hourly (excluding overtime)","Part-Time",17.4,17.6,16.79
+"Mean Wage",2026,"Northern Ireland","Weekly","All",701.9,606.9,806.3
+"Mean Wage",2026,"Northern Ireland","Weekly","Full-Time",871.6,814.2,915.4
+"Mean Wage",2026,"Northern Ireland","Weekly","Part-Time",314.1,325.2,284.2
+"Mean Wage",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","All",21.11,20.45,21.65
+"Mean Wage",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","Full-Time",21.95,21.4,22.3
+"Mean Wage",2026,"Antrim and Newtownabbey","Hourly (excluding overtime)","Part-Time",17.11,17.95,15.07
+"Mean Wage",2026,"Antrim and Newtownabbey","Weekly","All",699.9,590.9,808.3
+"Mean Wage",2026,"Antrim and Newtownabbey","Weekly","Full-Time",858,792.3,902.2
+"Mean Wage",2026,"Antrim and Newtownabbey","Weekly","Part-Time",328.7,327.8,330.9
+"Mean Wage",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","All",21.21,20.64,21.82
+"Mean Wage",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Full-Time",22.22,21.97,22.43
+"Mean Wage",2026,"Armagh City, Banbridge and Craigavon","Hourly (excluding overtime)","Part-Time",16.81,17.3,15.04
+"Mean Wage",2026,"Armagh City, Banbridge and Craigavon","Weekly","All",696.8,625.8,784.1
+"Mean Wage",2026,"Armagh City, Banbridge and Craigavon","Weekly","Full-Time",862.7,822.4,897.5
+"Mean Wage",2026,"Armagh City, Banbridge and Craigavon","Weekly","Part-Time",329.9,355.5,255
+"Mean Wage",2026,"Belfast","Hourly (excluding overtime)","All",23.94,22.79,24.99
+"Mean Wage",2026,"Belfast","Hourly (excluding overtime)","Full-Time",24.8,23.85,25.53
+"Mean Wage",2026,"Belfast","Hourly (excluding overtime)","Part-Time",18.61,18.95,17.66
+"Mean Wage",2026,"Belfast","Weekly","All",781.7,693.7,873.5
+"Mean Wage",2026,"Belfast","Weekly","Full-Time",943,890.7,984.4
+"Mean Wage",2026,"Belfast","Weekly","Part-Time",324.3,345.3,273.6
+"Mean Wage",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","All",19.09,19.42,18.73
+"Mean Wage",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","Full-Time",19.87,20.88,19.05
+"Mean Wage",2026,"Causeway Coast and Glens","Hourly (excluding overtime)","Part-Time",16.57,16.6,16.49
+"Mean Wage",2026,"Causeway Coast and Glens","Weekly","All",587.6,533.6,661.3
+"Mean Wage",2026,"Causeway Coast and Glens","Weekly","Full-Time",754.1,742.7,764.4
+"Mean Wage",2026,"Causeway Coast and Glens","Weekly","Part-Time",319.7,321.1,315.8
+"Mean Wage",2026,"Derry City and Strabane","Hourly (excluding overtime)","All",20.66,20.1,21.26
+"Mean Wage",2026,"Derry City and Strabane","Hourly (excluding overtime)","Full-Time",21.38,21.21,21.53
+"Mean Wage",2026,"Derry City and Strabane","Hourly (excluding overtime)","Part-Time",17.12,16.74,18.3
+"Mean Wage",2026,"Derry City and Strabane","Weekly","All",652.5,571.7,755.9
+"Mean Wage",2026,"Derry City and Strabane","Weekly","Full-Time",814.9,771.4,854.8
+"Mean Wage",2026,"Derry City and Strabane","Weekly","Part-Time",290.5,286.6,301.9
+"Mean Wage",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","All",20.18,19.75,20.55
+"Mean Wage",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","Full-Time",21.06,20.95,21.13
+"Mean Wage",2026,"Fermanagh and Omagh","Hourly (excluding overtime)","Part-Time",16.89,17.5,15.04
+"Mean Wage",2026,"Fermanagh and Omagh","Weekly","All",626.8,538.6,722.3
+"Mean Wage",2026,"Fermanagh and Omagh","Weekly","Full-Time",820.6,781.8,845.9
+"Mean Wage",2026,"Fermanagh and Omagh","Weekly","Part-Time",295.9,315.1,243.1
+"Mean Wage",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","All",21.97,20.14,23.69
+"Mean Wage",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","Full-Time",22.82,20.85,24.3
+"Mean Wage",2026,"Lisburn and Castlereagh","Hourly (excluding overtime)","Part-Time",18.57,18.38,19.02
+"Mean Wage",2026,"Lisburn and Castlereagh","Weekly","All",697.6,589.2,815.6
+"Mean Wage",2026,"Lisburn and Castlereagh","Weekly","Full-Time",884.1,786.2,960.3
+"Mean Wage",2026,"Lisburn and Castlereagh","Weekly","Part-Time",342.8,347.9,331.9
+"Mean Wage",2026,"Mid and East Antrim","Hourly (excluding overtime)","All",19.74,19.18,20.18
+"Mean Wage",2026,"Mid and East Antrim","Hourly (excluding overtime)","Full-Time",20.2,19.88,20.41
+"Mean Wage",2026,"Mid and East Antrim","Hourly (excluding overtime)","Part-Time",17.37,17.36,17.42
+"Mean Wage",2026,"Mid and East Antrim","Weekly","All",643.5,546.4,739.9
+"Mean Wage",2026,"Mid and East Antrim","Weekly","Full-Time",794.7,746,826.3
+"Mean Wage",2026,"Mid and East Antrim","Weekly","Part-Time",299,302.3,289.7
+"Mean Wage",2026,"Mid Ulster","Hourly (excluding overtime)","All",19.18,17.62,20.19
+"Mean Wage",2026,"Mid Ulster","Hourly (excluding overtime)","Full-Time",19.74,18.11,20.57
+"Mean Wage",2026,"Mid Ulster","Hourly (excluding overtime)","Part-Time",15.48,16.18,13.26
+"Mean Wage",2026,"Mid Ulster","Weekly","All",661.6,527.1,768.1
+"Mean Wage",2026,"Mid Ulster","Weekly","Full-Time",798.7,695.4,853.6
+"Mean Wage",2026,"Mid Ulster","Weekly","Part-Time",264.5,291.9,194.5
+"Mean Wage",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","All",20.16,19.13,21.38
+"Mean Wage",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","Full-Time",20.95,20.27,21.55
+"Mean Wage",2026,"Newry, Mourne and Down","Hourly (excluding overtime)","Part-Time",17.45,16.83,NA
+"Mean Wage",2026,"Newry, Mourne and Down","Weekly","All",629,535.7,769.2
+"Mean Wage",2026,"Newry, Mourne and Down","Weekly","Full-Time",814.7,768.1,857.2
+"Mean Wage",2026,"Newry, Mourne and Down","Weekly","Part-Time",321.7,307.8,NA
+"Mean Wage",2026,"Ards and North Down","Hourly (excluding overtime)","All",19.23,18.37,20.3
+"Mean Wage",2026,"Ards and North Down","Hourly (excluding overtime)","Full-Time",20.39,19.45,21.33
+"Mean Wage",2026,"Ards and North Down","Hourly (excluding overtime)","Part-Time",15.38,15.94,13.85
+"Mean Wage",2026,"Ards and North Down","Weekly","All",580.4,518.2,670.2
+"Mean Wage",2026,"Ards and North Down","Weekly","Full-Time",785.3,735.3,836.6
+"Mean Wage",2026,"Ards and North Down","Weekly","Part-Time",272.7,288.1,233.4
