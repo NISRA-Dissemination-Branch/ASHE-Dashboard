@@ -13,8 +13,8 @@ import { plotMap } from "./charts/plot-map.js";
 
 window.addEventListener("DOMContentLoaded", async () => {
 
-    initCookieConsent();
     await insertHead("Average hours worked");
+    initCookieConsent();
     insertHeader();
     insertNavButtons();
     insertFooter();

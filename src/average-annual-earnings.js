@@ -13,8 +13,8 @@ import { plotMap } from "./charts/plot-map.js";
 
 window.addEventListener("DOMContentLoaded", async () => {
 
-    initCookieConsent();
     await insertHead("Average annual earnings");
+    initCookieConsent();
     insertHeader();
     insertNavButtons();
     insertFooter();
